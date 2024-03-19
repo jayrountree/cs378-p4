@@ -1,0 +1,78 @@
+html, body { height: 100%; }
+
+.display-box {
+    width: 340px;
+    height: flex;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    background-color: antiquewhite;
+}
+
+.lang-text {
+    flex: 0 0 220px;
+    margin-left: 10px;
+}
+
+.lang-box {
+    width: 20px;
+    position: relative;
+    margin-top: 15px;
+}
+
+.button-search {
+    width: 60px;
+    height: 20px;
+    border-radius: 3em;
+    background-color: lavender;
+    box-shadow: 2px 2px 4px;
+    font-size: small;
+    position: relative;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 15px;
+}
+
+.key-text {
+    flex: 0 0 125px;
+    margin-left: 10px;
+}
+
+.key-box {
+    width: 125px;
+    position: relative;
+    margin-top: 15px;
+}
+
+.id-text {  
+    flex: 0 0 105px;
+    margin-left: 10px;
+}
+
+.id-box {
+    width: 145px;
+    position: relative;
+    margin-top: 15px;
+}
+
+.button-random {
+    width: 200px;
+    height: 20px;
+    border-radius: 3em;
+    background-color: lavender;
+    box-shadow: 2px 2px 4px;
+    font-size: small;
+    position: relative;
+    margin-left: 70px;
+    margin-top: 15px;
+    text-align: center;
+}
+
+.book-data {
+    width: 260px;
+    height: flex;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: orange;
+}
